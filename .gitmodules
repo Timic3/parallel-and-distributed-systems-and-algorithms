@@ -1,0 +1,3 @@
+[submodule "bilateral-filter"]
+	path = bilateral-filter
+	url = https://github.com/Timic3/bilateral-filter.git
